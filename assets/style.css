@@ -1,0 +1,56 @@
+body {
+    background-color: #000000; 
+}
+
+h1{
+    color: #FFF;
+}
+
+h2{
+    color: #FFF;
+}
+
+label[for="campo-filtro"] {
+    color: #FFF;
+  }
+
+#exampleModalLabel{
+    color: #000;
+}
+
+#campo-filtro{
+    border-radius: 8px;
+}
+
+#valor-filtro{
+    border-radius: 8px;
+}
+
+.botao{
+    border-radius: 8px;
+}
+
+#consumptionTable{
+    color: #FFF;
+}
+
+#addItemForm{
+    color: #FFF;
+}
+
+#total{
+    color: #FFF;
+}
+
+#productName{
+    border-radius: 8px;
+}
+
+#priority{
+    border-radius: 8px;
+}
+
+#price{
+    border-radius: 8px;
+}
+
